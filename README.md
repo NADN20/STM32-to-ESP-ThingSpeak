@@ -123,6 +123,6 @@ Below the different steps of the process:
        - wordLength = 8 Bit
        
 
-  -3- All the ESP8266 commands are set in the main.h file
+  -3- All the ESP8266 commands are set in the RX_ESP_TS.ino file
 
                                   
