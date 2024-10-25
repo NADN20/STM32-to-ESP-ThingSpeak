@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+sfrviewstate={"fFavorites"\:{"fLists"\:{"ADC1"\:["STM32L152/ADC/CR2","STM32L152/ADC/CR1","STM32L152/ADC/SR","STM32L152/ADC/CSR","STM32L152/ADC"],"t"\:["STM32L152/ADC/SR/EOC","STM32L152/ADC/CR2/SWSTART","STM32L152/ADC/CSR/ADONS1","STM32L152/ADC/SR/ADONS","STM32L152/ADC/SR/RCNR"]}},"fProperties"\:{"fNodeProperties"\:{"STM32L152/ADC/SR"\:{"fNodeProperties"\:{"autoupdate"\:"true"}},"STM32L152/ADC/CR1"\:{"fNodeProperties"\:{"autoupdate"\:"true"}},"STM32L152/ADC/CR2"\:{"fNodeProperties"\:{"autoupdate"\:"true"}}}}}
